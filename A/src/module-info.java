@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author premsgar
+ *
+ */
+module A {
+}
