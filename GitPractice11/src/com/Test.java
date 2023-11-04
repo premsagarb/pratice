@@ -8,5 +8,6 @@ public static void main(String[] args) {
 }
 public static void king() {
 	System.out.println("Test.king()");
+	System.out.println("Test.king()");
 }
 }
